@@ -1,8 +1,7 @@
 # EX NO: Cloud-account-set-up-and-services
 ~~~
-Name :M.PAVITHRA
-
-Reg no: 212222100032
+NAME : MAGESH S
+REG NO : 212224040180
 ~~~
 # Aim:
 To create an cloud account in AWS and to explore all of its services.
@@ -70,7 +69,7 @@ Turn on multi-factor authentication (MFA) for your root user.
 
 # Create user with administrative access
 Enable IAM Identity Center.
-In IAM Identity Center, grant administrative access to a user.
+In IAM Identity Center, grant administrative access to a ussaer.
 
 # Sign in as the user with administrative access
 To sign in with your IAM Identity Center user, use the sign-in URL that was sent to your email address when you created the IAM Identity Center user.
